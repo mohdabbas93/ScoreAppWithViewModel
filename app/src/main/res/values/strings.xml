@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="increase_score">Increase Score</string>
+</resources>
